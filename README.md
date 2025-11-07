@@ -4,15 +4,8 @@ A new Flutter project.
 
 Flutter Version :3.29.3
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="250" height="500" alt="onboarding" src="https://github.com/user-attachments/assets/d1bb957f-9bed-4d1d-8afe-cba2f625dff1" />
+<img width="250" height="500" alt="home" src="https://github.com/user-attachments/assets/8ca1e7a1-6f77-4a3a-9dee-b4d27ee5c28f" />
+<img width="250" height="500" alt="explore" src="https://github.com/user-attachments/assets/67722ead-1b63-4c1f-9cb8-552aa3300bd3" />
+<img width="250" height="500" alt="statistics" src="https://github.com/user-attachments/assets/faeee235-2dc7-4fd2-ac94-f4f472204434" />
+<img width="250" height="500" alt="workout" src="https://github.com/user-attachments/assets/e91bfe4b-14cd-49bb-8acb-9b50e714454e" />
